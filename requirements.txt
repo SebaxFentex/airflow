@@ -1,0 +1,39 @@
+# DataFrames
+# pandas==2.2.1
+
+# Abrir archivos Excel
+xlwings==0.29.1
+
+# Leer archivos Excel [xlsx]
+openpyxl==3.1.2
+
+# Leer archivos Excel [xls]
+xlrd==2.0.1
+
+# Todas las Bases de Datos
+# SqlAlchemy==2.0.25
+# pyodbc==5.0.1
+
+# Base de datos Oracle
+oracledb==2.1.2
+
+# Archivos Parquet
+# pyarrow==15.0.2
+
+# Jupyter Notebook
+# ipykernel==6.28.0
+
+# Automatizaciones
+selenium==4.18.1
+
+# Enviar mensajes Telegram
+# requests==2.32.2
+
+# Festivos
+holidays==0.49
+
+
+
+apache-airflow-providers-microsoft-mssql
+apache-airflow-providers-oracle
+apache-airflow-providers-telegram
